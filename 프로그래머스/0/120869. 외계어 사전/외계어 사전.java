@@ -14,7 +14,7 @@ class Solution {
                     break;
                 }
             }
-            count = 0;
+            count=0;
         }
         return answer;
     }
